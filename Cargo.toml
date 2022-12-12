@@ -3,4 +3,6 @@ members = [
     "aoc-util",
     "aoc1",
     "aoc2",
+    "aoc3",
+    "aoc4"
 ]
