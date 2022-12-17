@@ -3,7 +3,5 @@ mod tests {
     use super::*;
 
     #[test]
-    fn basic() {
-
-    }
+    fn basic() {}
 }
